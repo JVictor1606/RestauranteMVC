@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj": {}
+    "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\Bra.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj": {
+    "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\Bra.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj",
+        "projectUniqueName": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\Bra.Web.csproj",
         "projectName": "Bra.Web",
-        "projectPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj",
-        "packagesPath": "C:\\Users\\JVictor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\obj\\",
+        "projectPath": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\Bra.Web.csproj",
+        "packagesPath": "C:\\Users\\jvict\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JVictor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5z6yQ1zYrR3DgA7ToERBqsY57tr9HMuo6tj+sbEgAKGlDmObaLD/ZvIdM2VkQBkF4frz+hXWNaLuPe2WcRATA==",
+  "dgSpecHash": "lE4qDevE9gTlhudXttDvDvN37F1yGtRV2plxp3Ustcm+7TbIRC7U7sNCO3CnQPHLWcsQ4T47zfcpl6XShMJGvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj",
+  "projectFilePath": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.Web\\Bra.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

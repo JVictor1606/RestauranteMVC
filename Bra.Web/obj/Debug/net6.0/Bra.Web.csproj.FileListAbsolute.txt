@@ -24,3 +24,34 @@ C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\obj\Debug\net6.0\re
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\obj\Debug\net6.0\Bra.Web.pdb
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\obj\Debug\net6.0\Bra.Web.genruntimeconfig.cache
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\obj\Debug\net6.0\ref\Bra.Web.dll
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.staticwebassets.runtime.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.exe
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.deps.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.runtimeconfig.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.dll
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\bin\Debug\net6.0\Bra.Web.pdb
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.csproj.AssemblyReference.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.AssemblyInfoInputs.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.AssemblyInfo.cs
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.csproj.CoreCompileInputs.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.RazorAssemblyInfo.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.RazorAssemblyInfo.cs
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bra.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bra.Web.props
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bra.Web.props
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bra.Web.props
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\scopedcss\bundle\Bra.Web.styles.css
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bra.Web.bundle.scp.css
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.dll
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\refint\Bra.Web.dll
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.pdb
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.genruntimeconfig.cache
+C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\ref\Bra.Web.dll

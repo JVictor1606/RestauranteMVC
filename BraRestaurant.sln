@@ -5,11 +5,11 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{0A165651-A0FA-4F55-B457-B9E1AA828946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bra.Web", "Bra.Web\Bra.Web.csproj", "{33831CC6-FF3F-4EFE-AA6E-989460D5B60B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bra.Web", "Bra.Web\Bra.Web.csproj", "{33831CC6-FF3F-4EFE-AA6E-989460D5B60B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{1877D465-BEB3-4D92-9CDD-48958D10AEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bra.ProductApi", "Bra.ProductApi\Bra.ProductApi.csproj", "{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bra.ProductApi", "Bra.ProductApi\Bra.ProductApi.csproj", "{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
