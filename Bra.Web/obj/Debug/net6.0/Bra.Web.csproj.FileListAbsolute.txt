@@ -55,3 +55,5 @@ C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\De
 C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.pdb
 C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\Bra.Web.genruntimeconfig.cache
 C:\Users\jvict\OneDrive\Área de Trabalho\Projetos\RestauranteMVC\Bra.Web\obj\Debug\net6.0\ref\Bra.Web.dll
+C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Web\obj\Debug\net6.0\Bra.Web.csproj.CopyComplete

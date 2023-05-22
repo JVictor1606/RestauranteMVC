@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.ProductApi\\Bra.ProductApi.csproj": {}
+    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.ProductApi\\Bra.ProductApi.csproj": {
+    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.ProductApi\\Bra.ProductApi.csproj",
+        "projectUniqueName": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
         "projectName": "Bra.ProductApi",
-        "projectPath": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.ProductApi\\Bra.ProductApi.csproj",
-        "packagesPath": "C:\\Users\\jvict\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvict\\Desktop\\Projetos\\RestauranteMVC\\Bra.ProductApi\\obj\\",
+        "projectPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
+        "packagesPath": "C:\\Users\\JVictor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jvict\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JVictor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,17 +56,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.16, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -87,8 +87,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -100,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

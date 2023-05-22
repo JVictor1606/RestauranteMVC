@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{18
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bra.ProductApi", "Bra.ProductApi\Bra.ProductApi.csproj", "{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bra.Services.Identity", "Bra.Services.Identity\Bra.Services.Identity.csproj", "{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64262119-AB16-4A5C-BC2A-4AA2CFEB399B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{33831CC6-FF3F-4EFE-AA6E-989460D5B60B} = {0A165651-A0FA-4F55-B457-B9E1AA828946}
 		{64262119-AB16-4A5C-BC2A-4AA2CFEB399B} = {1877D465-BEB3-4D92-9CDD-48958D10AEE3}
+		{ABF5DDB5-E33D-417F-9129-1E5F5435BA9A} = {1877D465-BEB3-4D92-9CDD-48958D10AEE3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19971328-DA35-4D86-A39B-5E1AD1A7059B}
