@@ -19,7 +19,7 @@ namespace Bra.Services.Identity
         public static IEnumerable<ApiScope> ApiScopes =>
             new List<ApiScope>
             {
-                new ApiScope("Bra", "Bra server"),
+                new ApiScope("bra", "Bra server"),
                 new ApiScope(name: "read", displayName: "Leia sua data"),
                 new ApiScope(name: "write", displayName: "Escreva sua data"),
                 new ApiScope(name: "delete", displayName: "Delete sua data")
@@ -31,14 +31,14 @@ namespace Bra.Services.Identity
                 new Client
                 {
                     ClientId = "client",
-                    ClientSecrets = {new Secret("Secret".Sha256())},
+                    ClientSecrets = {new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
                     AllowedScopes= {"read", "write","profile"}
                 },
                 new Client
                 {
                     ClientId = "bra",
-                    ClientSecrets = {new Secret("Secret".Sha256())},
+                    ClientSecrets = {new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.Code,
                     RedirectUris = {"http://localhost:11394/signin-oicd"},
                     PostLogoutRedirectUris = {"http://localhost:11394/signout-callback-oicd" },

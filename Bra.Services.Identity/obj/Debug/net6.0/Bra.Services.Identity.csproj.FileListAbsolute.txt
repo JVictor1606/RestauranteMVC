@@ -93,3 +93,4 @@ C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Services.Identity\obj\D
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Services.Identity\obj\Debug\net6.0\Bra.Services.Identity.pdb
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Services.Identity\obj\Debug\net6.0\Bra.Services.Identity.genruntimeconfig.cache
 C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Services.Identity\obj\Debug\net6.0\ref\Bra.Services.Identity.dll
+C:\Users\JVictor\Desktop\AprendendoAPI\BraRestaurant\Bra.Services.Identity\bin\Debug\net6.0\keys\is-signing-key-33F7617B388FFA806620F5E7D7FC5A8C.json
