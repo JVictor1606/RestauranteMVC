@@ -20,8 +20,8 @@ namespace Bra.Services.Identity
             new List<ApiScope>
             {
                 new ApiScope("bra", "Bra server"),
-                new ApiScope(name: "read", displayName: "Leia sua data"),
-                new ApiScope(name: "write", displayName: "Escreva sua data"),
+                new ApiScope(name: "read", displayName: "Read sua data"),
+                new ApiScope(name: "write", displayName: "Write sua data"),
                 new ApiScope(name: "delete", displayName: "Delete sua data")
             };
 
@@ -40,8 +40,8 @@ namespace Bra.Services.Identity
                     ClientId = "bra",
                     ClientSecrets = {new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.Code,
-                    RedirectUris = {"http://localhost:11394/signin-oicd"},
-                    PostLogoutRedirectUris = {"http://localhost:11394/signout-callback-oicd" },
+                    RedirectUris = {"https://localhost:7048/signin-oidc"},
+                    PostLogoutRedirectUris = {"https://localhost:7048/signout-callback-oidc" },
                     AllowedScopes= new List<string>
                     {
                         IdentityServerConstants.StandardScopes.OpenId,
