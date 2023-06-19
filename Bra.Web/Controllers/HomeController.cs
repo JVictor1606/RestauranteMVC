@@ -40,7 +40,7 @@ namespace Bra.Web.Controllers
 
         public IActionResult Logout()
         {
-            return SignOut("Cookies", "iocd");
+            return SignOut("Cookies", "oidc");
         }
     }
 }

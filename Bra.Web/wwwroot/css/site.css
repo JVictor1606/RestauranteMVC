@@ -14,5 +14,19 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    
 }
+
+footer {
+    position: fixed !important;
+    bottom: 0 !important;
+    padding: 4px 0 !important;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
