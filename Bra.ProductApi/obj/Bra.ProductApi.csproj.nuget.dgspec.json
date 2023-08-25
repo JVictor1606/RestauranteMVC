@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {}
+    "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {
+    "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
+        "projectUniqueName": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
         "projectName": "Bra.ProductApi",
-        "projectPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
+        "projectPath": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
         "packagesPath": "C:\\Users\\JVictor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\obj\\",
+        "outputPath": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JVictor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,7 +87,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -99,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

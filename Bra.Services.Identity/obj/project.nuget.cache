@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zu9fIwq9A8WzmhR1JLUhzYQiEzQv+quY9k0Xak4scHE/MhsFRLmF2Jl4MVpa7XGv9lAmW+580wiYBt5jrjaoZg==",
+  "dgSpecHash": "TOYUu2CtcW1oz3cG0AckEjJDi03SzFHBCyytdXf9GC7qhmbSaFDKB3vUdBQ1t5Il6GXB2Mav2TeF/SvFT3Km0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Services.Identity\\Bra.Services.Identity.csproj",
+  "projectFilePath": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Services.Identity\\Bra.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVictor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\JVictor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

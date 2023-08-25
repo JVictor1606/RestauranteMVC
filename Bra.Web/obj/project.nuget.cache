@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PR4ni5lQ5BSzSGHG/F31cxX+Hokj/6N6nzUXBiPdTjB7NrqPbbiDb3EDlNlRa4fW6PcGtnNXXrn6xp0XNwm39g==",
+  "dgSpecHash": "CZ4c6gpv2pr2OaONWWSQc0P+eDn4XS4W5uCoDnPVb/+HlhW7xcfmeGJ82cYRgfHC9+OKCv/SGWYXbmQY/Zt/JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj",
+  "projectFilePath": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.Web\\Bra.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVictor\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\JVictor\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

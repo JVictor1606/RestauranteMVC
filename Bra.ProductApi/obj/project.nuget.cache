@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fukVsgRpeIBrCH5Veh0r6STxBtSSS7tommRXuYYH5TIRlwt7CIxM5cJq7uttbe+KSeOdlTkehBX5khpVpWI/MA==",
+  "dgSpecHash": "Uga9WCcknqgdArg2pGSZ0kdb4eWK4CsBOy14urZQT6oIEHJuPt6X7kX3IW98TLTprsvY0iEaWH5nx82wfRn4Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
+  "projectFilePath": "c:\\Users\\JVictor\\Desktop\\AprendendoAPI\\BraRestaurant\\Bra.ProductApi\\Bra.ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JVictor\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\JVictor\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
